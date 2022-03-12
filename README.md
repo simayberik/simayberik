@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Simay Ayberik
 - I'm a third year student at Dokuz Eylül University
-✅ I'm well versed in Data Structures & Algorithms in Java and C#.
-👯 I’m keen about Software Development and Mathematics.
-- 🌱 I’m currently learning mobile development with Kotlin and React Native
+- ✅ I'm well versed in Data Structures & Algorithms in Java and C#.
+- 👯 I’m keen about Software Development and Mathematics.
+- 🌱 I’m currently learning mobile development with Kotlin and React Native, also I'm interested in AI and NLP and deep learning.
 
 
 
